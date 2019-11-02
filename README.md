@@ -3,6 +3,7 @@
 A simple yet customizable autoCompleteTextField for flutter
 
 ## Example Code
+```
 getSuggestionsListFunction : 
 
   Future<List<String>> getLocationSuggestionsList(String locationText) async {
@@ -69,3 +70,4 @@ function declaration :
                           hintText: msgLocationHint1,
                         ),
                       ),
+```
